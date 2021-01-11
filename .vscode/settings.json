@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/timurmisagin/.platformio/penv/bin:/Users/timurmisagin/.platformio/penv:/Users/timurmisagin/.jenv/shims:/usr/local/opt/python/libexec/bin:/Users/timurmisagin/Documents/VulkanProjects//vulkansdk-macos-1.1.77.0/macOS/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/timurmisagin/.sdkman/candidates/gradle/current/bin:/usr/local/gradle/gradle/gradle-3.4/bin:/Users/timurmisagin/Library/Android/sdk/tools:/Users/timurmisagin/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/3.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/timurmisagin/Downloads/Eiffel_16.05/studio/spec/macosx-x86-64/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
